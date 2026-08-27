@@ -14,7 +14,7 @@ I'm an engineering student and developer who enjoys turning ideas into practical
 - 💻 Building **frontend and full-stack projects**
 - ☁️ Exploring **Cloud Computing and DevOps**
 - 🚀 Learning how to take projects from **development to production**
-- 🤝 AWS Student Builder Group Leader at my college
+- 🤝 **AWS Student Builder Group Leader** at my college
 - 📚 Continuously learning through building and experimenting
 - 🌍 Interested in opportunities to work on real-world software projects
 
@@ -43,6 +43,10 @@ I'm an engineering student and developer who enjoys turning ideas into practical
 </p>
 
 ### Tools & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=stripe,JWT,Vercel,Render,REST APIs"/>
+</p>
 
 `Stripe` `JWT` `Vercel` `Render` `REST APIs`
 
