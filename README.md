@@ -44,10 +44,6 @@ I'm an engineering student and developer who enjoys turning ideas into practical
 
 ### Tools & Services
 
-<p>
-  <img src="https://skillicons.dev/icons?i=stripe,JWT,Vercel,Render,REST APIs"/>
-</p>
-
 `Stripe` `JWT` `Vercel` `Render` `REST APIs`
 
 ---
